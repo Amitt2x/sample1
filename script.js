@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Live button functionality
     window.Live = function() {
-        alert("It will go live on the 20th of December. See you there!");
+        alert("It will go live on the 20th of April. See you there!");
         return false;
     };
 });
