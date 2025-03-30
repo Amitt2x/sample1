@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Countdown timer
     function updateCountdown() {
-        const weddingDate = new Date('January 20, 2025 00:00:00').getTime();
+        const weddingDate = new Date('April 20, 2025 00:00:00').getTime();
         const now = new Date().getTime();
         const distance = weddingDate - now;
         
