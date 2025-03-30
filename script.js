@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
         audioPlayer.play().catch(e => console.log("Audio play failed:", e));
     });
     
-    // Smooth scrolling for navigation
+    // Smooth scrolling for navigation 
     document.querySelectorAll('nav a').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             e.preventDefault();
