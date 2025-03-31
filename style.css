@@ -24,7 +24,7 @@ header {
     position: relative; 
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('..Photos/header.jpg');
+    background-image: url('Photos/header.jpg');
     background-position: center;
     color: var(--text-light);
     letter-spacing: 5px;
@@ -261,7 +261,7 @@ nav ul li a:hover {
 }
 
 #reception {
-    background-image: url('..Photos/reception.jpg');
+    background-image: url('Photos/reception.jpg');
 }
 
 #reception a {
@@ -270,7 +270,7 @@ nav ul li a:hover {
 }
 
 #gallery {
-    background-image: url('..Photos/gallery\ back.webp');
+    background-image: url('Photos/gallery\ back.webp');
 }
 
 .gallery-container {
@@ -369,7 +369,7 @@ blockquote {
 }
 
 #rsvp {
-    background-image: url('..Photos/rsvp\ back.jpg');
+    background-image: url('Photos/rsvp\ back.jpg');
 }
 
 #rsvp form {
