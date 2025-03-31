@@ -131,7 +131,7 @@ nav ul li a:hover {
 }
 
 #home {
-    background-image: url('..Photos/invite.jpg');
+    background-image: url('Photos/invite.jpg');
     padding-bottom: 350px;
     position: relative;
 }
@@ -166,7 +166,7 @@ nav ul li a:hover {
 
 #myBtn {
     min-width: 400px;
-    background-image: url('..Photos/ganpati.jpg');
+    background-image: url('Photos/ganpati.jpg');
     background-size: cover;
     background-position: center;
     color: #fdc304;
@@ -183,12 +183,12 @@ nav ul li a:hover {
 }
 
 #myBtn:hover {
-    background-image: url('..Photos/slokh.jpg');
+    background-image: url('Photos/slokh.jpg');
     transform: scale(1.05);
 }
 
 #our-story {
-    background-image: url('..Photos/story.jpg');
+    background-image: url('Photos/story.jpg');
 }
 
 #our-story p, #reception p {
@@ -204,7 +204,7 @@ nav ul li a:hover {
 }
 
 #ceremony {
-    background-image: url('..Photos/ceremony\ back.jpg');
+    background-image: url('Photos/ceremony\ back.jpg');
 }
 
 #ceremony h3, #ceremony h2 {
