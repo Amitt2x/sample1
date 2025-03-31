@@ -24,7 +24,7 @@ header {
     position: relative; 
     background-attachment: fixed;
     background-size: cover;
-    background-image: url('../Photos/header.jpg');
+    background-image: url('..Photos/header.jpg');
     background-position: center;
     color: var(--text-light);
     letter-spacing: 5px;
@@ -131,7 +131,7 @@ nav ul li a:hover {
 }
 
 #home {
-    background-image: url('../Photos/invite.jpg');
+    background-image: url('..Photos/invite.jpg');
     padding-bottom: 350px;
     position: relative;
 }
@@ -166,7 +166,7 @@ nav ul li a:hover {
 
 #myBtn {
     min-width: 400px;
-    background-image: url('../Photos/ganpati.jpg');
+    background-image: url('..Photos/ganpati.jpg');
     background-size: cover;
     background-position: center;
     color: #fdc304;
@@ -183,12 +183,12 @@ nav ul li a:hover {
 }
 
 #myBtn:hover {
-    background-image: url('../Photos/slokh.jpg');
+    background-image: url('..Photos/slokh.jpg');
     transform: scale(1.05);
 }
 
 #our-story {
-    background-image: url('../Photos/story.jpg');
+    background-image: url('..Photos/story.jpg');
 }
 
 #our-story p, #reception p {
@@ -204,7 +204,7 @@ nav ul li a:hover {
 }
 
 #ceremony {
-    background-image: url('../Photos/ceremony\ back.jpg');
+    background-image: url('..Photos/ceremony\ back.jpg');
 }
 
 #ceremony h3, #ceremony h2 {
@@ -261,7 +261,7 @@ nav ul li a:hover {
 }
 
 #reception {
-    background-image: url('../Photos/reception.jpg');
+    background-image: url('..Photos/reception.jpg');
 }
 
 #reception a {
@@ -270,7 +270,7 @@ nav ul li a:hover {
 }
 
 #gallery {
-    background-image: url('../Photos/gallery\ back.webp');
+    background-image: url('..Photos/gallery\ back.webp');
 }
 
 .gallery-container {
@@ -369,7 +369,7 @@ blockquote {
 }
 
 #rsvp {
-    background-image: url('../Photos/rsvp\ back.jpg');
+    background-image: url('..Photos/rsvp\ back.jpg');
 }
 
 #rsvp form {
